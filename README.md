@@ -1,2 +1,3 @@
 # CSS-Design
-This document is consider as an authentic project that related to html coding
+#about Project.
+ This project base on HTML and CSS.
